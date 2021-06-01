@@ -1,1 +1,3 @@
 This is Alan's first assignment on "The Odin Project"!
+
+Changed branch name from "Master" to "Main" in case some idiot is watching...
